@@ -54,8 +54,8 @@ ________________________________________
 ________________________________________
  How to Run:
 1.	Clone the repository:
-2.	git clone https://github.com/your-repo-name.git
-3.	cd your-repo-name
+2.	git clone https://github.com/GlenElric/DIP.git
+3.	cd DIP
 4.	Install required libraries (preferably in a virtual environment):
 5.	pip install opencv-python matplotlib
 6.	Launch the Jupyter Notebook:
